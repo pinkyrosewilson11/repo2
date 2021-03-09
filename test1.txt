@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 10CF-85B5
+
+ Directory of C:\Users\pinky\OneDrive\Desktop\My project
+
+09/03/2021  02:18 PM    <DIR>          .
+09/03/2021  02:18 PM    <DIR>          ..
+09/03/2021  02:18 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  174,832,373,760 bytes free
