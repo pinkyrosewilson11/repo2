@@ -1,1 +1,4 @@
 changed
+
+Experience assessing testing processes, creating, implementing testing strategies and SQA strategies using Agile-testing methodology
+Creating and documenting test plans, test scenarios, test cases and test scripts
